@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on **UITVibes – Social Media Mobile App**
 
-- 🌱 I'm currently learning **Programming Languages: C#, C++, Javascript, SQL, GDScript.
+- 🌱 I'm currently learning **Programming Languages: C#, C++, Javascript, SQL, GDScript, Python.
 Tech: ReactJS, ASP .NET, Docker, RabbitMQ, Redis, PostgreSQL, SQL Server, Git, YARP, SignalR, Postman, Winforms**
 
 - 🤝 I'm looking for help with **learning system design**
