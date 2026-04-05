@@ -1,7 +1,7 @@
 # Hi 👋, I'm Hoàng Văn Tài
 
 ### A Fullstack Developer (Prefer Backend actually).
-- 🏫 I am pursuing a Bachelor's degree in Software Engineer at **University of Information Technology - VietNam National University.**
+- 🏫 I am pursuing a Bachelor's degree in Software Engineer at **UIT-VNU.**
 
 - 🔭 I'm currently working on **UITVibes – Social Media Mobile App**
 
