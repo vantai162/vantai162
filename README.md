@@ -12,7 +12,6 @@ Tech: ReactJS, ASP .NET, Docker, RabbitMQ, Redis, PostgreSQL, SQL Server, Git, Y
 
 - 📫 How to reach me **hoangvantai162@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/12-m4SJBTF7V3Hdjj_nrTmBoABeeFvos6/view?usp=sharing](https://drive.google.com/file/d/12-m4SJBTF7V3Hdjj_nrTmBoABeeFvos6/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
