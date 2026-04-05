@@ -16,9 +16,9 @@ Tech: ReactJS, ASP .NET, Docker, RabbitMQ, Redis, PostgreSQL, SQL Server, Git, Y
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/vantai162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vantai162" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/t%C3%A0i-ho%C3%A0ng-112506285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/t%C3%A0i-ho%C3%A0ng-112506285/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/tai.hoang.van.777946" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tai.hoang.van.777946" height="30" width="40" /></a>
-<a href="https://leetcode.com/https://leetcode.com/u/hoangvanteo162/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hoangvanteo162/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tài-hoàng-112506285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tài-hoàng-112506285" height="30" width="40" /></a>
+<a href="https://fb.com/tai.hoang.van.777946" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tai.hoang.van.777946" height="30" width="40" /></a>
+<a href="https://leetcode.com/hoangvanteo162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hoangvanteo162" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
