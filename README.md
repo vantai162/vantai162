@@ -10,7 +10,7 @@
 
   - **Tech: ReactJS, ExpressJS, ASP.NET, Docker, RabbitMQ, Redis, YARP, SignalR, Postman, Winforms.**
 
-  -**Database: PostgreSQL, MSSQL, MongoDB.**
+  - **Database: PostgreSQL, MSSQL, MongoDB.**
 
 - 🤝 I'm looking for help with **learning system design and NodeJS**
 
