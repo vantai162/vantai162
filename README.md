@@ -3,13 +3,14 @@
 ### A Fullstack Developer (Prefer Backend actually).
 - 🏫 I am pursuing a Bachelor's degree in Software Engineer at **UIT-VNU.**
 
-- 🔭 I'm currently working on **UITVibes – Social Media Mobile App and PetRanger Website**
+- 🔭 I'm currently working on **UITVibes – Social Media Mobile App and PetRanger Website**.
 
-- 🌱 I'm currently learning **Programming Languages: C#, C++, Javascript, SQL, GDScript, Python.
+- 🌱 I'm currently learning
+  - **Programming Languages: C#, C++, Javascript, SQL, GDScript, Python.**
 
-Tech: ReactJS, ExpressJS, ASP.NET, Docker, RabbitMQ, Redis, YARP, SignalR, Postman, Winforms
+  - **Tech: ReactJS, ExpressJS, ASP.NET, Docker, RabbitMQ, Redis, YARP, SignalR, Postman, Winforms.**
 
-Database: PostgreSQL, MSSQL, MongoDB**
+  -**Database: PostgreSQL, MSSQL, MongoDB.**
 
 - 🤝 I'm looking for help with **learning system design and NodeJS**
 
