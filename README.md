@@ -1,5 +1,5 @@
 💫 About Me:
-🏫 I am pursuing a Bachelor's degree in Software Engineer at UIT-VNU.<br><br>🔭 I'm currently working on UITVibes – Social Media Mobile App and PetRanger Website.<br><br>🌱 I'm currently learning<br><br>Programming Languages: C#, C++, Javascript, SQL, GDScript, Python.<br><br>Tech: ReactJS, ExpressJS, ASP.NET, Docker, RabbitMQ, Redis, YARP, SignalR, Postman, Winforms.<br><br>Database: PostgreSQL, MSSQL, MongoDB.<br><br>🤝 I'm looking for help with learning system design and NodeJS<br><br>📫 How to reach me hoangvantai162@gmail.com
+🏫 I am pursuing a Bachelor's degree in Software Engineer at UIT-VNU.<br><br>🔭 I'm currently working on UITVibes – Social Media Mobile App and PetRanger Website.<br><br>🌱 I'm currently learning<br><br>Programming Languages: C#, C++, Java, Javascript, TypeScript.<br><br>Tech: ReactJS, ExpressJS, ASP.NET, Spring Boot, Docker.<br><br>Database: PostgreSQL, MSSQL, MongoDB.<br><br>🤝 I'm looking for help with learning system design.<br><br>📫 How to reach me hoangvantai162@gmail.com
 
 🌐 Socials:
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/hoangvanteo162/)
